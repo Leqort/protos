@@ -1,0 +1,3 @@
+module github.com/Leqort/protos
+
+go 1.24.4
